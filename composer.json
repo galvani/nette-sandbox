@@ -1,5 +1,5 @@
 {
-	"name": "nette/sandbox",
+	"name": "galvani/nette-sandbox",
 	"description": "The sandbox is a pre-packaged Nette Framework project, basic configured structure for your application.",
 	"homepage": "https://nette.org",
 	"type": "project",
